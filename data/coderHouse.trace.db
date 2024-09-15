@@ -1,0 +1,4 @@
+2024-09-14 22:03:54.177583-03:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "VENTA_PRODUCTO" no encontrada
+Table "VENTA_PRODUCTO" not found; SQL statement:
+SELECT * FROM VENTA_PRODUCTO [42102-224]
